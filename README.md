@@ -1,5 +1,10 @@
 ### Hi there 👋
-📫 How to reach me: gvijikar@uwaterloo.ca
+
+### Connect with me:
+
+[<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="gvijikar@uwaterloo.ca | Email" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/minutemailer.svg" />][minutemailer]
+[<img align="left" alt="gobishanvijikaran | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 <!--
 **GobishanVijikaran/GobishanVijikaran** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
