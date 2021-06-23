@@ -1,13 +1,13 @@
-### Hi there 👋
+### Hi there 👋🏾
 
 ### Connect with me:
 
 [<img align="left" alt="" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="gvijikar@uwaterloo.ca | Email" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/minutemailer.svg" />][email]
+[<img align="left" alt=" | Email" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/minutemailer.svg" />][email]
 [<img align="left" alt="gobishanvijikaran | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 [website]: https://gobishan.ca
-[email]: gobishan2000@gmail.com
+[email]: mailto:gobishan2000@gmail.com
 [linkedin]: https://linkedin.com/in/gobishanvijikaran
 <!--
 **GobishanVijikaran/GobishanVijikaran** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
