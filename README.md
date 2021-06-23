@@ -1,5 +1,7 @@
 ### Hi there 👋🏾
 
+My name is Gobi, check out my website to learn more about me
+
 ### Connect with me:
 
 [<img align="left" alt="" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
