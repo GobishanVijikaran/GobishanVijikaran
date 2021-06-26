@@ -5,7 +5,7 @@ My name is Gobi, check out my website to learn more about me
 ### Connect with me:
 
 [<img align="left" alt="" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt=" | Email" width="22px" src="https://fonts.googleapis.com/icon?family=Material+Icons/mail" />][email]
+[<img align="left" alt=" | Email" width="22px" src="https://fonts.googleapis.com/icon?family=Material+Icons?icon=mail" />][email]
 [<img align="left" alt="gobishanvijikaran | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 [website]: https://gobishan.ca
