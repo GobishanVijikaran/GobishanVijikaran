@@ -1,6 +1,5 @@
 ### Hi there 👋🏾
 
-My name is Gobi, check out my website to learn more about me
 
 ### Connect with me:
 
