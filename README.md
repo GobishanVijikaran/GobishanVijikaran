@@ -1,6 +1,6 @@
 ### Hi there 👋🏾
 
-My name is Gobi! 
+My name is Gobi!
 
 ### Connect with me:
 
@@ -24,4 +24,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
 -->
