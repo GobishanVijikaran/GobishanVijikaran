@@ -12,7 +12,7 @@ My name is Gobi!
 [email]: mailto:gobishan2000@gmail.com
 [linkedin]: https://linkedin.com/in/gobishanvijikaran
 <!--
-**GobishanVijikaran/GobishanVijikaran** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**GobishanVijikaran/GobishanVijikaran** is a ✨ _special_ ✨ repository because its `README.md` appears on your GitHub profile.
 
 Here are some ideas to get you start
 
